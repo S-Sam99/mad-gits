@@ -1,8 +1,8 @@
 I have a pet dinosaur (noun) named Charles.
 
-He is very ______ (adjective).
+He is very shy (adjective).
 
-I feed him organic, locally sourced ______ (noun).
+I feed him organic, locally sourced lettuce (noun).
 
 He is only about the size of my ______ (noun).
 
