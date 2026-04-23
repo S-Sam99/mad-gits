@@ -1,9 +1,9 @@
-I have a pet tiger (noun) named Charles.
+I have a pet ______ (noun) named Charles.
 
 He is very shy (adjective).
 
-I feed him organic, locally sourced apples (noun).
+I feed him organic, locally sourced ______ (noun).
 
-He is only about the size of my palm (noun).
+He is only about the size of my ______ (noun).
 
-I named him after my favorite human (noun).
+I named him after my favorite ______ (noun).
